@@ -6,5 +6,6 @@ Link sơ đồ : https://transform.sg.larksuite.com/docx/FCJ5dSu8AoL4x5xmGd7lXbv
 <img width="1122" height="326" alt="image" src="https://github.com/user-attachments/assets/08e0066f-aaa7-4cd2-b619-f173612ce43b" />
 
 Cấu trúc bảng dữ liệu:
+
 <img width="832" height="689" alt="image" src="https://github.com/user-attachments/assets/cbd80e89-a4d0-4e90-9215-ba17c0588a6f" />
 
