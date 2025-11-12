@@ -1,3 +1,4 @@
 # Executive-Overview
 Project hướng đến người dùng là CEO , COO , Board of Directors để trả lời các câu hỏi cho lãnh đạo về công ty hiện đang làm việc có heathy và ổn định tốt không , có đạt được target hay không , cần can thiệp những gì,.. 
+
 Link sơ đồ : https://transform.sg.larksuite.com/docx/FCJ5dSu8AoL4x5xmGd7lXbvPgK9?fbclid=IwY2xjawOAxzBleHRuA2FlbQIxMABicmlkETFJQWVXUmFMS1lpVnJST3lrc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHoLglWjkTV0DlVcXo0et3lc2sD6gG-dZ4ND_VAy0dfHL9OVov-qgACb9wOGc_aem_UfWvajKO-QDt5Aw3llxX7g&openbrd=1&doc_app_id=501&blockId=KThtdtbWKoJ0YfxtaYBl7aPVgcf&blockType=whiteboard&blockToken=KNI7wpYHZhAX4AbKizLl5xNig5d#KThtdtbWKoJ0YfxtaYBl7aPVgcf
